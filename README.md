@@ -1,6 +1,10 @@
 
 # 😍⌨10FastFingers Cheating Chrome-Extension 💻🚀
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=fast-fingers&label=FastFingers%20Extension&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
+  </p>
+  
 ## Overview 📝
 
 The 10FastFingers Cheating Chrome Extension makes typing on the popular typing test site, 10FastFingers, a breeze! It types the words for you, so all you need to do is press the spacebar after each word to move forward.
