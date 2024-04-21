@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+   
+    "name": "100 Fingers Cheat",
+    "version": "0.1.0",
+    "description": "The 10fastfingers cheat",
+   
+    "content_scripts": [{
+      "css": ["style.css"],
+      "js": ["cheat.js"],
+      "matches": ["https://10fastfingers.com/*"]
+    }]
+   
+  }
